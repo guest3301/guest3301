@@ -13,7 +13,7 @@
 - I talk _[with computers]_ in
     - Python (Includes but not limited to; Flask & Automations),
     - Javascript (Nodejs & Vanillajs),
-    - Basic Shell Scripting, Web Development & Android Development (Java)
+    - Basic Shell Scripting, Web Development & Basic Android Development (Java)
 - Tends to be a rational thinker.
 
 ## ⬆ What I'm Up To
