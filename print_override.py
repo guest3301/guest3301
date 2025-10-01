@@ -1,7 +1,5 @@
 import sys, time, builtins
 
-_original_print = builtins.__dict__['print']
-
 letters = [
     [chr(i) for i in range(ord('a'), ord('z')+1)],
     [chr(i) for i in range(ord('A'), ord('Z')+1)]
@@ -27,7 +25,8 @@ def write(arg, delay=0.02):
             time.sleep(delay)
             if letter == ch:
                 break
-    _original_print()
+    sys.stdout.write("\n")
+    sys.stdout.flush()
 
 def fancy_print(*args, **kwargs):
     text = " ".join(str(a) for a in args)
