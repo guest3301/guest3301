@@ -44,7 +44,7 @@ Reverse engineering · WPA2 · Burp Suite · Frida dynamic instrumentation · Sh
 |---|---|
 | [Ransomeware](https://github.com/guest3301/ransomeware) | A simple ransomeware written in python from my early days. |
 | Institution's website | A website utilising Flask web framework, multi-blueprint architecture with authentication layer for Content Management.   |
-| Untitled <br> _work in  progess_ | Thousands of PDFs record processing pipeline to create a searchable index, and make life easier, of some people.  |
+| Untitled <br> _work in  progess_ | Thousands of PDFs record processing pipeline to create a searchable index, and make the lives easier, of some people.  |
 
 ---
 
