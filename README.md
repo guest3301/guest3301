@@ -2,7 +2,7 @@
 
 ## About me
 > Hey there! I'm Durgesh, here known as **@guest3301** <br>
-19 teen and counting. <br>
+9 teen and counting. <br>
 Pursuing a degree in Computer Science. <br>
 I think too broadly about most things, which is useful and exhausting, both. <br>
 *Thinking broadly helps me understand the world a little better.*  
@@ -42,7 +42,7 @@ Reverse engineering · WPA2 · Burp Suite · Frida dynamic instrumentation · Sh
 
 | Project | Description |
 |---|---|
-| [Ransomeware](https://github.com/guest3301/ransomeware) | A simple ransomeware written in python from my early days. |
+| [Ransomware](https://github.com/guest3301/ransomware) | A simple ransomeware written in python from my early days. |
 | Institution's website | A website utilising Flask web framework, multi-blueprint architecture with authentication layer for Content Management.   |
 | Untitled <br> _work in  progess_ | Thousands of PDFs record processing pipeline to create a searchable index, and make the lives easier, of some people.  |
 
