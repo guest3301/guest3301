@@ -4,14 +4,13 @@
 > Hey there! I'm Durgesh, here known as **@guest3301** <br>
 9 teen and counting. <br>
 Pursuing a degree in Computer Science. <br>
-I think too broadly about most things, which is useful and exhausting, both. <br>
-*Thinking broadly helps me understand the world a little better.*  
-*It also means I spiral. That's the deal.*
+I think a little too much. 
+
 ---
 
 ## What I Do
 
-I like to build web and command line apps that automate my boring tasks or make my life easier. I take apart systems to understand what they are actually doing under the hood. Most of my work lies somewhere in the gap between those two things. 
+I like to build web and command line apps that automate my boring tasks or make my life easier. I take systems apart to understand what they are actually doing under the hood.
 
 ---
 
@@ -40,13 +39,29 @@ Reverse engineering · WPA2 · Burp Suite · Frida dynamic instrumentation · Sh
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [Ransomware](https://github.com/guest3301/ransomware) | A simple ransomeware written in python from my early days. |
-| Institution's website | A website utilising Flask web framework, multi-blueprint architecture with authentication layer for Content Management.   |
-| Untitled <br> _work in  progess_ | Thousands of PDFs record processing pipeline to create a searchable index, and make the lives easier, of some people.  |
+1. **Ransomware**  
+   *A simple ransomware in Python that I wrote back then to understand their working.*  
+   <details>
+   <summary>Description</summary>
+   The code is poor. It just works, and uses incorrect cryptographic functions. ;)  
+    
+   [Source code](https://github.com/guest3301/ransomware)
+   </details>
 
----
+2. **Institution's Website**  
+   <details>
+   <summary>Description</summary>
+   Website utilising Flask web framework, multi‑blueprint architecture with authentication layer for Content Management. *(Private repository)*
+   </details>
+
+3. **UniResults**  
+   *A web app for University of Mumbai undergrads to check their all semester results instantly, all at one place. Instead of scrolling through a thousand page PDF.*  
+   <details>
+   <summary>Description</summary>
+   Built by scraping and inserting thousands of PDF records into a DB. Various security measures like rate limiting, frontend anti-tampering approaches (Security through Obscurity) have been implemented at backend to protect the API from abuse. Logo and preview thumbnail was designed using Canva.  
+    
+   [View site](https://guest3301.github.io/mumresults-ug/) (*Source code isn't public yet.*)
+   </details>
 
 ## GitHub Activity
 
@@ -62,8 +77,13 @@ Reverse engineering · WPA2 · Burp Suite · Frida dynamic instrumentation · Sh
 
 ---
 
+> *"Laugh, and the world laughs with you; Weep, and you weep alone."*  
+> — Ella Wheeler Wilcox
+
+---
+
 ## 📫 How to reach me:
 
  [<img src="https://raw.githubusercontent.com/guest3301/guest3301/master/assets/mail.png" height="40em" align="center" alt="Email" title="Email"/>](mailto:guest.coauthor452@passfwd.com)
- ***Drop me an email.*** <br> _You won't find me anywhere else.. :)_
+ ***Drop me an email.*** <br> _You may not be able to find me anywhere else.. :)_
 
