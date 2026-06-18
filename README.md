@@ -58,7 +58,7 @@ Reverse engineering · WPA2 · Burp Suite · Frida dynamic instrumentation · Sh
    *A web app for University of Mumbai undergrads to check their all semester results instantly, all at one place. Instead of scrolling through a thousand page PDF.*  
    <details>
    <summary>Description</summary>
-   Built by scraping and inserting thousands of PDF records into a DB. Various security measures like rate limiting, frontend anti-tampering approaches (Security through Obscurity) have been implemented at backend to protect the API from abuse. Logo and preview thumbnail was designed using Canva.  
+   Built by scraping and inserting thousands of PDF records into a DB. Various security measures like rate limiting, frontend anti-tampering approaches (Security through Obscurity) have been implemented at the backend to protect the API from abuse. The logo and preview thumbnail were designed using Canva.  
     
    [View site](https://guest3301.github.io/mumresults-ug/) (*Source code isn't public yet.*)
    </details>
