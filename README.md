@@ -39,22 +39,13 @@ Reverse engineering · WPA2 · Burp Suite · Frida dynamic instrumentation · Sh
 
 ## Projects
 
-1. **Ransomware**  
-   *A simple ransomware in Python that I wrote back then to understand their working.*  
-   <details>
-   <summary>Description</summary>
-   The code is poor. It just works, and uses incorrect cryptographic functions. ;)  
-    
-   [Source code](https://github.com/guest3301/ransomware)
-   </details>
-
-2. **Institution's Website**  
+1. **Institution's Website**  
    <details>
    <summary>Description</summary>
    Website utilising Flask web framework, multi‑blueprint architecture with authentication layer for Content Management. *(Private repository)*
    </details>
 
-3. **UniResults**  
+2. **UniResults**  
    *A web app for University of Mumbai undergrads to check their all semester results instantly, all at one place. Instead of scrolling through a thousand page PDF.*  
    <details>
    <summary>Description</summary>
